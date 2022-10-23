@@ -1,4 +1,3 @@
-# Hello there
 - 👋 Hi, I’m elda.
 - 👀 I’m interested in web app development and gamedesign
 - 🌱 I’m currently studying computer science at university of technology
