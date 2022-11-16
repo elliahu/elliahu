@@ -1,5 +1,5 @@
 - 👋 Hi, I’m elda.
-- 👀 I’m interested in web app development and gamedesign
+- 👀 I’m interested in web app development and computer graphics
 - 🌱 I’m currently studying computer science at university of technology
 - 📫 You can reach me @elliahu on Github and @mateselliahu on Twitter
 
